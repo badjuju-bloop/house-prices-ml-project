@@ -1,1 +1,1 @@
-# badjuju.github.io
+House prediction model using linear regression
